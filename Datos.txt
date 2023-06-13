@@ -11,5 +11,3 @@ Ingenieria de Software
 LIS-601
 
 Desarrollo de Aplicaciones
-
-Para Develop
